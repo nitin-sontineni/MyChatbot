@@ -1,0 +1,559 @@
+session 11:36:06
+
+user @ 11:36:13 : thank you
+bot  @ 11:36:13 : Have a nice day ;)
+
+session 21/03/2021 12:02:39
+
+user @ 12:03:02 : hello alzhebot
+bot  @ 12:03:02 : Hello! I'm AlzheBot!, How can I help you?
+
+user @ 12:03:59 : where is my house
+bot  @ 12:03:59 : I didnt get you, sairaju
+
+user @ 12:04:05 : where is my home
+bot  @ 12:04:05 : your address: 68-10-16/S1;Niveditha towers;vidyuth nagar;kakinada.\n Do you want me to open MAPS
+
+user @ 12:04:25 : yes
+bot  @ 12:04:25 : open https://google.com/maps/place/@16.98628738344878
+
+user @ 12:05:10 : what is my name
+bot  @ 12:05:10 : Your name is sairaju!\n Do you want to know your details.\n
+
+user @ 12:05:19 : yes
+bot  @ 12:05:19 : You work as a student.\n Your hobbies are Netflix; cricket and chill
+
+user @ 12:05:59 : give me my fathers name
+bot  @ 12:05:59 : Your father's name is ramakrishna raju.
+
+user @ 12:06:14 : what are my parents
+bot  @ 12:06:14 : Your mother's name is santhi.\n Your father's name is ramakrishna raju.
+
+user @ 12:06:28 : why am i here
+bot  @ 12:06:28 : You are here to coding
+
+user @ 12:06:37 : what am i doing here
+bot  @ 12:06:37 : You are here to coding
+
+user @ 12:07:19 : thank you
+bot  @ 12:07:19 : Have a nice day ;)
+
+session 21/03/2021 12:08:57
+
+user @ 12:09:03 : my parents are sleeping
+bot  @ 12:09:03 : Sorry. I didn't quite get that., sairaju
+
+user @ 12:09:29 : im talking to my parents
+bot  @ 12:09:29 : Your mother's name is santhi.\n Your father's name is ramakrishna raju.
+
+user @ 12:09:41 : goodbye
+bot  @ 12:09:41 : Have a nice day ;)
+
+session 22/03/2021 18:34:03
+
+user @ 18:34:12 : Name
+bot  @ 18:34:12 : Sorry. I didn't quite get that., sairaju
+
+user @ 18:34:22 : What is your name?
+bot  @ 18:34:22 : I'm a AlzheBot, I'm here to assist you!
+
+user @ 18:34:45 : What is my name?
+bot  @ 18:34:45 : Your name is sairaju!\n Do you want to know your details.\n
+
+user @ 18:34:53 : Yes
+bot  @ 18:34:53 : You work as a student.\n Your hobbies are Netflix; cricket and chill
+
+user @ 18:35:11 : Have a nice day
+bot  @ 18:35:11 : Can you elaborate, sairaju
+
+user @ 18:35:29 : Have a nice day ;)
+bot  @ 18:35:29 : Sorry. I didn't quite get that., sairaju
+
+session 24/03/2021 11:38:15
+
+user @ 11:38:20 : what is my name
+bot  @ 11:38:20 : Your name is sairaju!\n Do you want to know your details.\n
+
+user @ 11:38:30 : my parents name
+bot  @ 11:38:30 : Sorry. I didn't quite get that., sairaju
+
+user @ 11:38:38 : What are my parents name
+bot  @ 11:38:38 : Your mother's name is santhi.\n Your father's name is ramakrishna raju.
+
+user @ 20:16:27 : what is my name
+bot  @ 20:16:27 : 
+
+user @ 20:17:10 : what is my name?
+bot  @ 20:17:10 : 
+
+user @ 20:17:20 : name?
+bot  @ 20:17:20 : 
+
+user @ 20:20:52 : what is my name?
+bot  @ 20:20:52 : 
+
+user @ 20:42:27 : what is my name?
+bot  @ 20:42:27 : 
+
+user @ 20:42:41 : what is my name?
+bot  @ 20:42:41 : 
+
+user @ 20:47:11 : what is my name?
+bot  @ 20:47:11 : 
+
+user @ 20:48:43 : what is my name?
+bot  @ 20:48:43 : 
+
+user @ 20:48:54 : name
+bot  @ 20:48:54 : 
+
+user @ 20:50:26 : what is my name?
+bot  @ 20:50:26 : Your name is nitin S!\n Do you want to know your details.\n
+
+user @ 20:50:35 : yes
+bot  @ 20:50:35 : You work as a .\n Your hobbies are
+
+user @ 20:58:55 : what is my name?
+bot  @ 20:58:55 : Your name is sairaju!\n Do you want to know your details.\n
+
+user @ 20:59:04 : what is my good name?
+bot  @ 20:59:04 : I didnt get you, sairaju
+
+user @ 20:59:27 : my name
+bot  @ 20:59:27 : Sorry. I didn't quite get that., sairaju
+
+user @ 20:59:34 : my name?
+bot  @ 20:59:34 : I didnt get you, sairaju
+
+user @ 21:00:07 : what is my name?
+bot  @ 21:00:07 : Your name is manohar!\n Do you want to know your details.\n
+
+user @ 21:15:04 : what is my address?
+bot  @ 21:15:04 : your address: .\n Do you want me to open MAPS
+
+user @ 21:15:49 : what is my address?
+bot  @ 21:15:49 : your address: khammam.\n Do you want me to open MAPS
+
+user @ 21:15:58 : yes
+bot  @ 21:15:58 : open
+
+user @ 10:59:07 : what is my name?
+bot  @ 10:59:07 : Your name is Manohar!\n Do you want to know your details.\n
+
+session 25/03/2021 11:57:44session 25/03/2021 12:12:25session 25/03/2021 13:15:37session 25/03/2021 13:30:19session 25/03/2021 13:32:47session 25/03/2021 13:34:57session 25/03/2021 13:36:19session 25/03/2021 13:41:28session 25/03/2021 13:41:38user @ 13:41:50 : WHAT Is my name?
+bot  @ 13:41:50 : Your name is Manoahr!\n Do you want to know your details.\n
+
+user @ 13:42:00 : What is my home address?
+bot  @ 13:42:00 : your address: 15-5-112/A/2, Chaitanya Nagar, Khammam.\n Do you want me to open MAPS
+
+user @ 13:42:13 : Yes
+bot  @ 13:42:13 : specialcharOPEN 15-5-112/A/2, Chaitanya Nagar, Khammam
+
+user @ 13:43:53 : What is my name?
+bot  @ 13:43:53 : Your name is Nitin!\n Do you want to know your details.\n
+
+user @ 13:43:58 : yes
+bot  @ 13:43:58 : You work as a Student.\n Your hobbies are
+
+session 25/03/2021 13:48:10user @ 13:48:50 : What is my name?
+bot  @ 13:48:50 : Your name is Nitin!\n Do you want to know your details.\n
+
+user @ 13:48:54 : Yes
+bot  @ 13:48:54 : You work as a Student.\n Your hobbies are Cricket
+
+user @ 13:49:14 : My parent details
+bot  @ 13:49:14 : Sorry. I didn't quite get that., Nitin
+
+user @ 13:49:20 : Who is my father
+bot  @ 13:49:20 : Your father's name is ASfda..
+
+user @ 13:49:26 : What is my father
+bot  @ 13:49:26 : Sorry. I didn't quite get that., Nitin
+
+user @ 13:49:31 : Who is my mother
+bot  @ 13:49:31 : Your mother's name is sdfds..
+
+user @ 13:49:41 : What are my hobbies
+bot  @ 13:49:41 : Can you elaborate, Nitin
+
+user @ 13:49:55 : What are my details
+bot  @ 13:49:55 : Sorry. I didn't quite get that., Nitin
+
+user @ 13:51:12 : Give My Details
+bot  @ 13:51:12 : Sorry. I didn't quite get that., Nitin
+
+user @ 13:51:23 : What is my address?
+bot  @ 13:51:23 : your address: BPHC, Hyderabad.\n Do you want me to open MAPS
+
+user @ 13:51:27 : Yes
+bot  @ 13:51:27 : specialcharOPEN BPHC, Hyderabad
+
+session 25/03/2021 14:06:42user @ 14:08:28 : What is my name
+bot  @ 14:08:28 : Your name is Manohar!\n Do you want to know your details.\n
+
+user @ 14:08:37 : what are my contacts
+bot  @ 14:08:37 : Can you phrase that in another way., Manohar
+
+user @ 14:08:42 : what are my contact
+bot  @ 14:08:42 : I didnt get you, Manohar
+
+user @ 14:08:51 : Emergency contacts
+bot  @ 14:08:51 : I didnt get you, Manohar
+
+user @ 14:09:04 : CALL superman
+bot  @ 14:09:04 : emergency contacts:
+
+session 25/03/2021 14:10:28user @ 14:18:38 : What is my name?
+bot  @ 14:18:38 : Your name is Manoahr !\n Do you want to know your details.\n
+
+user @ 14:18:42 : Yes
+bot  @ 14:18:42 : You work as a Student.\n Your hobbies are adss
+
+user @ 14:18:53 : Call my mother
+bot  @ 14:18:53 : emergency contacts:
+
+user @ 14:19:06 : What is my address
+bot  @ 14:19:06 : your address: New Boston.\n Do you want me to open MAPS
+
+user @ 14:19:09 : Yes
+bot  @ 14:19:09 : specialcharOPEN New Boston
+
+user @ 14:24:17 : What is my name?
+bot  @ 14:24:17 : Your name is Manohar!\n Do you want to know your details.\n
+
+user @ 14:24:19 : What is my name?
+bot  @ 14:24:19 : Your name is Manohar!\n Do you want to know your details.\n
+
+user @ 14:24:22 : What is my name?
+bot  @ 14:24:22 : Your name is Manohar!\n Do you want to know your details.\n
+
+user @ 14:24:23 : What is my name?
+bot  @ 14:24:23 : Your name is Manohar!\n Do you want to know your details.\n
+
+user @ 14:24:25 : What is my name?
+bot  @ 14:24:25 : Your name is Manohar!\n Do you want to know your details.\n
+
+user @ 14:24:26 : What is my name?
+bot  @ 14:24:26 : Your name is Manohar!\n Do you want to know your details.\n
+
+user @ 14:24:28 : What is my name?
+bot  @ 14:24:28 : Your name is Manohar!\n Do you want to know your details.\n
+
+user @ 14:24:31 : What is my name?
+bot  @ 14:24:31 : Your name is Manohar!\n Do you want to know your details.\n
+
+user @ 14:24:32 : What is my name?
+bot  @ 14:24:32 : Your name is Manohar!\n Do you want to know your details.\n
+
+user @ 14:24:33 : What is my name?
+bot  @ 14:24:33 : Your name is Manohar!\n Do you want to know your details.\n
+
+user @ 14:24:35 : What is my name?
+bot  @ 14:24:35 : Your name is Manohar!\n Do you want to know your details.\n
+
+session 25/03/2021 14:28:06session 25/03/2021 14:30:59session 25/03/2021 14:46:44user @ 14:47:52 : What is my name
+bot  @ 14:47:52 : Your name is Manohar!\n Do you want to know your details.\n
+
+user @ 14:59:20 : hello
+bot  @ 14:59:20 : Hello! I'm AlzheBot!, How can I help you?
+
+user @ 15:01:54 : What is my name?
+bot  @ 15:01:54 : Your name is Manohar!\n Do you want to know your details.\n
+
+user @ 15:03:18 : What is my name?
+bot  @ 15:03:18 : Your name is Manohar!\n Do you want to know your details.\n
+
+user @ 15:05:48 : What is my name?
+bot  @ 15:05:48 : Your name is Manohar!\n Do you want to know your details.\n
+
+user @ 15:10:50 : What is my name?
+bot  @ 15:10:50 : Your name is Manohar!\n Do you want to know your details.\n
+
+user @ 15:11:24 : What is my name?
+bot  @ 15:11:24 : Your name is Manohar!\n Do you want to know your details.\n
+
+user @ 15:12:56 : What is my name?
+bot  @ 15:12:56 : Your name is Manohar!\n Do you want to know your details.\n
+
+user @ 15:13:33 : what is my name?
+bot  @ 15:13:33 : Your name is Manohar!\n Do you want to know your details.\n
+
+user @ 15:14:29 : What is mu name?
+bot  @ 15:14:29 : Can you phrase that in another way., Manohar
+
+user @ 15:14:35 : What is my name?
+bot  @ 15:14:35 : Your name is Manohar!\n Do you want to know your details.\n
+
+user @ 15:16:35 : What is my name?
+bot  @ 15:16:35 : Your name is Manohar!\n Do you want to know your details.\n
+
+user @ 15:17:16 : What is my name?
+bot  @ 15:17:16 : Your name is Manohar!\n Do you want to know your details.\n
+
+user @ 15:17:47 : What is my name?
+bot  @ 15:17:47 : Your name is Manohar!\n Do you want to know your details.\n
+
+user @ 15:18:25 : what is my name?
+bot  @ 15:18:25 : Your name is Manohar!\n Do you want to know your details.\n
+
+user @ 15:19:05 : what is my name?
+bot  @ 15:19:05 : Your name is Manohar!\n Do you want to know your details.\n
+
+user @ 15:20:47 : What is my name?
+bot  @ 15:20:47 : Your name is Manohar!\n Do you want to know your details.\n
+
+session 25/03/2021 17:55:55user @ 17:55:55 : favicon.ico
+bot  @ 17:55:55 : Can you elaborate,  I didnt get you,
+
+session 25/03/2021 18:44:41user @ 18:44:56 : what is my name? 
+bot  @ 18:44:56 : Your name is ! Do you want to know your details.
+
+user @ 18:46:17 : what is my name? 
+bot  @ 18:46:17 : Your name is Nitin ! Do you want to know your details.
+
+user @ 18:46:26 : yes
+bot  @ 18:46:26 : You work as a student. Your hobbies are playing cricket
+
+session 25/03/2021 18:49:37user @ 18:51:44 : what is my name? 
+bot  @ 18:51:44 : Your name is Pranith! Do you want to know your details.
+
+user @ 18:51:50 : yes
+bot  @ 18:51:50 : You work as a student. Your hobbies are playing cricket
+
+user @ 18:51:59 : what is my adress? 
+bot  @ 18:51:59 : Can you elaborate, Pranith
+
+user @ 18:52:11 : what is my address? 
+bot  @ 18:52:11 : your address: Bits pilani, hyderabad. Do you want me to open MAPS
+
+user @ 18:52:18 : yes
+bot  @ 18:52:18 : specialcharOPEN Bits pilani, hyderabad
+
+user @ 18:53:29 : what is my father's name? 
+bot  @ 18:53:29 : I didnt get you, Pranith
+
+user @ 18:53:44 : what is my father name? 
+bot  @ 18:53:44 : Sorry. I didn't quite get that., Pranith
+
+user @ 18:54:18 : What is fathers name? 
+bot  @ 18:54:18 : Your father's name is Raju.
+
+user @ 18:54:49 : what is mothers name? 
+bot  @ 18:54:49 : Your mother's name is shreesh.
+
+user @ 18:55:16 : what is fathers mobile number? 
+bot  @ 18:55:16 : I didnt get you, Pranith
+
+user @ 18:55:26 : what is fathers number? 
+bot  @ 18:55:26 : fathers contacts: 8106366932
+
+user @ 18:56:07 : what is my blood group? 
+bot  @ 18:56:07 : BLOOD GROUP : A+
+
+user @ 19:01:47 : what is my name? 
+bot  @ 19:01:47 : Your name is nitin! Do you want to know your details.
+
+session 25/03/2021 19:34:33user @ 19:35:49 : what is my father's name? 
+bot  @ 19:35:49 : Can you elaborate, Nitin
+
+user @ 19:36:06 : what is my fathers name? 
+bot  @ 19:36:06 : I didnt get you, Nitin
+
+session 25/03/2021 19:56:23session 25/03/2021 19:57:33user @ 19:57:46 : what is my fathers nam? 
+bot  @ 19:57:46 : Can you phrase that in another way.,
+
+user @ 19:57:59 : what is my father's name? 
+bot  @ 19:57:59 : Your father's name is .
+
+session 25/03/2021 22:16:36user @ 22:18:10 : what is my name? 
+bot  @ 22:18:10 : Your name is Nitin! Do you want to know your details.
+
+user @ 22:18:14 : yes
+bot  @ 22:18:14 : You work as a student. Your hobbies are cricket
+
+user @ 22:18:25 : what is my address? 
+bot  @ 22:18:25 : your address: pwd grounds, vijayawada. Do you want me to open MAPS
+
+user @ 22:18:33 : yes
+bot  @ 22:18:33 : specialcharOPEN pwd grounds, vijayawada
+
+user @ 22:19:02 : what is my fathers name? 
+bot  @ 22:19:02 : Your father's name is siva.
+
+user @ 22:19:15 : what are my emergency contacts? 
+bot  @ 22:19:15 : FATHERS contacts: 9490466485 MOTHERS contacts: 9959086242 DOCTORS contacts:
+
+user @ 22:20:45 : what are my emergency contacts? 
+bot  @ 22:20:45 : FATHERS contacts: 9490466485 MOTHERS contacts: 9959086242 DOCTORS contacts:
+
+user @ 22:21:06 : what are my emergency contacts? 
+bot  @ 22:21:06 : FATHERS contacts: 9490466485 MOTHERS contacts: 9959086242 DOCTORS contacts:
+
+user @ 22:21:36 : what is my doctors number? 
+bot  @ 22:21:36 : doctors contacts: 8106366932
+
+user @ 22:25:39 : what are my emergency contacts? 
+bot  @ 22:25:39 : FATHERS contacts: 9490466485 MOTHERS contacts: 9959086242 DOCTORS contacts:
+
+session 25/03/2021 22:31:24user @ 22:31:45 : what are my emergency contacts? 
+bot  @ 22:31:45 : FATHERS contacts:  MOTHERS contacts:  DOCTORS contacts:
+
+user @ 22:32:50 : what is my name? 
+bot  @ 22:32:50 : Your name is Nitin! Do you want to know your details.
+
+user @ 22:32:59 : what are my emergency contacts? 
+bot  @ 22:32:59 : FATHERS contacts: 9490466485 MOTHERS contacts: 9959086242 DOCTORS contacts: 8106366932
+
+user @ 22:33:12 : what is my address? 
+bot  @ 22:33:12 : your address: pwd grounds, vijayawada. Do you want me to open MAPS
+
+user @ 22:33:20 : yes
+bot  @ 22:33:20 : specialcharOPEN pwd grounds, vijayawada
+
+user @ 22:33:51 : what are my hobbies? 
+bot  @ 22:33:51 : Can you phrase that in another way., Nitin
+
+user @ 22:34:01 : what is my fathers name? 
+bot  @ 22:34:01 : Your father's name is siva.
+
+user @ 22:34:07 : exit
+bot  @ 22:34:07 : Can you phrase that in another way., Nitin
+
+session 28/03/2021 07:56:00user @ 07:57:23 : what is my name? 
+bot  @ 07:57:23 : Your name is ! Do you want to know your details.
+
+user @ 07:58:45 : what is my name? 
+bot  @ 07:58:45 : Your name is nitin! Do you want to know your details.
+
+user @ 07:58:59 : yes
+bot  @ 07:58:59 : You work as a student. Your hobbies are cricket
+
+user @ 07:59:12 : what is my name? 
+bot  @ 07:59:12 : Your name is nitin! Do you want to know your details.
+
+user @ 07:59:18 : no
+bot  @ 07:59:18 : What else you want to know
+
+user @ 07:59:27 : nothing
+bot  @ 07:59:27 : Can you elaborate, nitin
+
+user @ 07:59:36 : exit
+bot  @ 07:59:36 : I didnt get you, nitin
+
+user @ 07:59:44 : A cube
+bot  @ 07:59:44 : Can you phrase that in another way., nitin
+
+user @ 07:59:54 : hate
+bot  @ 07:59:54 : Can you phrase that in another way., nitin
+
+user @ 08:00:07 : what is my address? 
+bot  @ 08:00:07 : your address: pwd grounds, vijayawada. Do you want me to open MAPS
+
+user @ 08:00:13 : yes
+bot  @ 08:00:13 : specialcharOPEN pwd grounds, vijayawada
+
+user @ 08:02:50 : what is my adress? 
+bot  @ 08:02:50 : Can you phrase that in another way., nitin
+
+user @ 08:03:05 : what is my address? 
+bot  @ 08:03:05 : your address: pwd grounds, vijayawada. Do you want me to open MAPS
+
+user @ 08:03:08 : yes
+bot  @ 08:03:08 : specialcharOPEN pwd grounds, vijayawada
+
+session 28/03/2021 16:31:19user @ 16:32:39 : what is my name? 
+bot  @ 16:32:39 : Your name is ! Do you want to know your details.
+
+user @ 16:38:16 : what is my name? 
+bot  @ 16:38:16 : Your name is ! Do you want to know your details.
+
+user @ 16:39:04 : what is my name? 
+bot  @ 16:39:04 : Your name is nitin! Do you want to know your details.
+
+user @ 16:39:08 : yes
+bot  @ 16:39:08 : You work as a nitin. Your hobbies are aasd
+
+session 28/03/2021 16:55:16session 28/03/2021 17:07:32user @ 17:10:10 : what is my name? 
+bot  @ 17:10:10 : Your name is Nitn! Do you want to know your details.
+
+user @ 17:10:18 : yes
+bot  @ 17:10:18 : You work as a student. Your hobbies are Playing cricket
+
+user @ 17:10:44 : ohm
+bot  @ 17:10:44 : Can you phrase that in another way., Nitn
+
+user @ 17:11:33 : home
+bot  @ 17:11:33 : I didnt get you, Nitn
+
+user @ 17:13:25 : what is my adress? 
+bot  @ 17:13:25 : Sorry. I didn't quite get that., Nitn
+
+user @ 17:13:38 : what is my address? 
+bot  @ 17:13:38 : your address: rajiv gandhi international airport, hyderabad. Do you want me to open MAPS
+
+user @ 17:13:43 : yes
+bot  @ 17:13:43 : specialcharOPEN rajiv gandhi international airport, hyderabad
+
+user @ 17:14:19 : what are my emergency contacts? 
+bot  @ 17:14:19 : FATHERS contacts: 9959086242 MOTHERS contacts: 9494466372 DOCTORS contacts: 8104524789
+
+user @ 17:14:35 : what is my father name? 
+bot  @ 17:14:35 : Sorry. I didn't quite get that., Nitn
+
+user @ 17:14:45 : what is my fathers name? 
+bot  @ 17:14:45 : Your father's name is Siva.
+
+user @ 17:18:00 : give me my home adress? 
+bot  @ 17:18:00 : Can you phrase that in another way., Nitn
+
+user @ 17:18:19 : give me my home address? 
+bot  @ 17:18:19 : your address: rajiv gandhi international airport, hyderabad. Do you want me to open MAPS
+
+session 05/04/2021 10:59:37user @ 11:03:06 : What is my name? 
+bot  @ 11:03:06 : Your name is Nitin! Do you want to know your details.
+
+user @ 16:35:47 : What is my name? 
+bot  @ 16:35:47 : Your name is Nitin! Do you want to know your details.
+
+user @ 16:35:52 : Yes
+bot  @ 16:35:52 : You work as a 3rd Computer Science Student at BITS Hyderabad. Your hobbies are Playing Chess, Cricket
+
+user @ 16:36:16 : What is my home address? 
+bot  @ 16:36:16 : your address: near PWD grounds, Vijayawada. Do you want me to open MAPS
+
+user @ 16:36:27 : yes
+bot  @ 16:36:27 : specialcharOPEN near PWD grounds, Vijayawada
+
+user @ 16:37:02 : What are my emergency contacts? 
+bot  @ 16:37:02 : FATHERS contacts: 9490466485 MOTHERS contacts: 9959086242 DOCTORS contacts: 8106366932
+
+user @ 16:37:43 : What is my name? 
+bot  @ 16:37:43 : Your name is Nitin! Do you want to know your details.
+
+user @ 16:37:49 : Yes
+bot  @ 16:37:49 : You work as a 3rd Computer Science Student at BITS Hyderabad. Your hobbies are Playing Chess, Cricket
+
+user @ 16:38:00 : What is my home address? 
+bot  @ 16:38:00 : your address: near PWD grounds, Vijayawada. Do you want me to open MAPS
+
+user @ 16:39:07 : what are my emergency contacts? 
+bot  @ 16:39:07 : FATHERS contacts: 9490466485 MOTHERS contacts: 9959086242 DOCTORS contacts: 8106366932
+
+session 05/04/2021 17:18:53user @ 17:19:01 : What is my name? 
+bot  @ 17:19:01 : Your name is Nitin! Do you want to know your details.
+
+user @ 17:19:05 : Yes
+bot  @ 17:19:05 : You work as a 3rd Computer Science at BITS Hyderabad. Your hobbies are Playing Chess,Cricket
+
+user @ 17:19:16 : What is my home address? 
+bot  @ 17:19:16 : your address: near pwd grounds, Vijayawada. Do you want me to open MAPS
+
+user @ 17:20:03 : What is my blood group? 
+bot  @ 17:20:03 : BLOOD GROUP : A+
+
+user @ 17:20:32 : what is my fathers mobile number? 
+bot  @ 17:20:32 : Sorry. I didn't quite get that., Nitin
+
+user @ 17:20:48 : where am I? 
+bot  @ 17:20:48 : Can you elaborate, Nitin
+

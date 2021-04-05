@@ -1,0 +1,953 @@
+<aiml version="2.0" encoding="UTF-8">
+<!-- basic_chat.aiml -->
+    <category><pattern>HELLO</pattern>
+    <template>Hello! I'm AlzheBot!, How can I help you?</template>
+    </category>
+
+    <category><pattern>HELLO *</pattern>
+    <template>Hello! I'm AlzheBot!, How can I help you?</template>
+    </category>
+
+    <category><pattern>HI</pattern>
+    <template>Hello! I'm AlzheBot!, How can I help you?</template>
+    </category>
+
+    <category><pattern>HI *</pattern>
+    <template>Hello! I'm AlzheBot!, How can I help you?</template>
+    </category>
+
+    <category><pattern>HEY</pattern>
+    <template>Hello! I'm AlzheBot!, How can I help you?</template>
+    </category>
+
+    <category><pattern>HEY *</pattern>
+    <template>Hello! I'm AlzheBot!, How can I help you?</template>
+    </category>
+
+    <category><pattern>GREETINGS</pattern>
+    <template>Hello! I'm AlzheBot!, How can I help you?</template>
+    </category>
+
+    <category><pattern>GREETINGS *</pattern>
+    <template>Hello! I'm AlzheBot!, How can I help you?</template>
+    </category>
+
+    <category><pattern>GOOD MORNING</pattern>
+    <template>Hello! I'm AlzheBot!, How can I help you?</template>
+    </category>
+
+    <category><pattern>GOOD MORNING *</pattern>
+    <template>Hello! I'm AlzheBot!, How can I help you?</template>
+    </category>
+
+    <category><pattern>HELP</pattern>
+    <template>How can I help you?</template>
+    </category>
+
+    <category><pattern>HELP *</pattern>
+    <template>How can I help you?</template>
+    </category>
+
+    <category><pattern> * HELP</pattern>
+    <template>How can I help you?</template>
+    </category>
+
+    <category><pattern>* HELP *</pattern>
+    <template>How can I help you?</template>
+    </category>
+
+    <category><pattern>WHAT ARE YOU</pattern>
+    <template>I'm a AlzheBot, I'm here to assist you!</template>
+    </category>
+
+    <category><pattern>* YOU</pattern>
+    <template><srai> WHAT ARE YOU </srai></template>
+   </category>
+
+   <category><pattern>* YOUR NAME</pattern>
+    <template><srai> WHAT ARE YOU </srai></template>
+   </category>
+
+    <category><pattern>WHO AM I</pattern>
+    <template>
+            Your name is <get name ="name"/>!
+            Do you want to know your details.
+            <think>
+            <set name="topic">DETAILS</set>
+            </think>
+    </template>
+    </category>
+
+    <category><pattern>* WHO AM I</pattern>
+    <template><srai>WHO AM I</srai></template>
+    </category>
+
+    <category><pattern>* WHO AM I *</pattern>
+    <template><srai>WHO AM I</srai></template>
+    </category>
+
+    <category><pattern>WHO I AM *</pattern>
+    <template><srai>WHO AM I</srai></template>
+    </category>
+
+    <category><pattern>* MY NAME</pattern>
+    <template><srai> WHO AM I </srai></template>
+   </category>
+   
+   <category><pattern>GIVE * MY DETAILS</pattern>
+    <template>You work as a <get name="work"/>.
+          Your hobbies are <get name="hobbies"/></template>
+   </category>
+
+   <category><pattern>GIVE * MY DETAILS *</pattern>
+    <template>You work as a <get name="work"/>.
+          Your hobbies are <get name="hobbies"/></template>
+   </category>
+
+    <topic name="DETAILS">
+    <category><pattern>YES</pattern>
+    <template>You work as a <get name="work"/>.
+          Your hobbies are <get name="hobbies"/>
+          <think>
+          <set name = "topic">NULL</set>
+          </think>
+    </template>
+    </category>
+
+    <category><pattern>YES *</pattern>
+    <template><srai>YES</srai></template>
+    </category>
+
+    <category><pattern>* YES</pattern>
+    <template><srai>YES</srai></template>
+    </category>
+
+    <category><pattern>* YES *</pattern>
+    <template><srai>YES</srai></template>
+    </category>
+
+    <category><pattern>YEAH *</pattern>
+    <template><srai>YES</srai></template>
+    </category>
+
+    <category><pattern>* YEAH *</pattern>
+    <template><srai>YES</srai></template>
+    </category>
+
+    <category><pattern>* YEAH</pattern>
+    <template><srai>YES</srai></template>
+    </category>
+
+    <category><pattern>YEAH</pattern>
+    <template><srai>YES</srai></template>
+    </category>
+
+    <category><pattern>GIVE * DETAILS</pattern>
+    <template><srai>YES</srai></template>
+    </category>
+
+    <category><pattern>* GIVE * DETAILS</pattern>
+    <template><srai>YES</srai></template>
+    </category>
+
+    <category><pattern>SHOW * DETAILS</pattern>
+    <template><srai>YES</srai></template>
+    </category>
+
+    <category><pattern>* SHOW * DETAILS</pattern>
+    <template><srai>YES</srai></template>
+    </category>
+
+    <category><pattern>NO</pattern>
+    <template>What else you want to know
+    <think>
+          <set name = "topic">NULL</set>
+          </think>
+    </template>
+    </category>
+
+    <category><pattern>NO *</pattern>
+    <template><srai>NO</srai></template>
+    </category>
+
+    <category><pattern>* NO *</pattern>
+    <template><srai>NO</srai></template>
+    </category>
+
+    <category><pattern>* NO</pattern>
+    <template><srai>NO</srai></template>
+    </category>
+
+    <category><pattern>NOPE</pattern>
+    <template><srai>NO</srai></template>
+    </category>
+
+    <category><pattern>NOPE *</pattern>
+    <template><srai>NO</srai></template>
+    </category>
+
+    <category><pattern>* NOPE *</pattern>
+    <template><srai>NO</srai></template>
+    </category>
+
+    <category><pattern>* NOPE</pattern>
+    <template><srai>NO</srai></template>
+    </category>
+
+
+    </topic>
+
+    <category><pattern>OKAY</pattern>
+    <template>yeah</template>
+    </category>
+
+    <category><pattern>OK</pattern>
+    <template>yeah</template>
+    </category>
+
+
+    <category>
+        <pattern>YES GIVE DETAILS</pattern>
+        <template>
+          You work as a <get name="work"/>.
+          Your hobbies are <get name="hobbies"/>
+        </template>
+    </category>
+
+    <category>
+        <pattern>* MY NAME</pattern>
+        <template>
+            <srai>WHO AM I</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>* MY NAME *</pattern>
+        <template>
+            <srai>WHO AM I</srai>
+        </template>
+    </category>
+
+
+    <category>
+        <pattern>WHY AM I HERE</pattern>
+        <template>
+            You are here to <get name = "presentwork"/>
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHERE * HOME</pattern>
+        <template>
+            <srai>WHERE DO I LIVE</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>* WHERE * HOME</pattern>
+        <template>
+            <srai>WHERE DO I LIVE</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>HOW * GO HOME</pattern>
+        <template>
+            <srai>WHERE DO I LIVE</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>* HOW * GO HOME</pattern>
+        <template>
+            <srai>WHERE DO I LIVE</srai>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>* ADDRESS</pattern>
+        <template>
+            <srai>WHERE DO I LIVE</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>* ADDRESS *</pattern>
+        <template>
+            <srai>WHERE DO I LIVE</srai>
+        </template>
+    </category>
+    
+    <category><pattern>OPEN MAPS</pattern>
+    <template>open maps to home? Only home address is in my database.
+      <think>
+      <set name="topic">MAPS</set>
+      </think>
+    </template>
+    </category>
+
+    <category><pattern>* OPEN MAPS</pattern>
+    <template><srai>OPEN MAPS</srai></template>
+    </category>
+
+    <category><pattern>OPEN MAPS *</pattern>
+    <template><srai>OPEN MAPS</srai></template>
+    </category>
+
+    <category><pattern>* OPEN MAPS *</pattern>
+    <template><srai>OPEN MAPS</srai></template>
+    </category>
+
+    <category>
+        <pattern>* I DOING</pattern>
+        <template>
+            You are here to <get name = "presentwork"/>
+        </template>
+    </category>
+
+    <category>
+        <pattern>* I HERE</pattern>
+        <template>
+            You are here to <get name = "presentwork"/>
+        </template>
+    </category>
+
+    <category>
+        <pattern>* DOING HERE</pattern>
+        <template>
+            You are here to <get name = "presentwork"/>
+        </template>
+    </category>
+
+    <category>
+      <pattern>* FATHERS NAME</pattern>
+      <template>
+         Your father's name is <get name="father"/>.
+      </template>  
+    </category>
+
+    <category>
+      <pattern>* FATHERS NAME *</pattern>
+      <template>
+         Your father's name is <get name="father"/>.
+      </template>  
+    </category>
+
+   <category>
+      <pattern>* MOTHERS NAME</pattern>
+      <template>
+         Your mother's name is <get name="mother"/>.
+      </template>  
+   </category>
+
+   <category>
+      <pattern>* MOTHERS NAME *</pattern>
+      <template>
+         Your mother's name is <get name="mother"/>.
+      </template>  
+   </category>
+
+   <category>
+      <pattern>WHO IS MY *</pattern>
+      <template>
+         <srai>what is my <star/>s name</srai>.
+      </template>  
+   </category>
+
+   <category>
+      <pattern>* WHO IS MY *</pattern>
+      <template>
+         <srai>what is my <star/>s name</srai>.
+      </template>  
+   </category>
+  
+  <category>
+      <pattern>* PARENTS NAMES</pattern>
+      <template>
+         Your mother's name is <get name="mother"/>.
+         Your father's name is <get name="father"/>.
+      </template>  
+   </category>
+
+   <category>
+      <pattern>* PARENTS NAMES *</pattern>
+      <template>
+         Your mother's name is <get name="mother"/>.
+         Your father's name is <get name="father"/>.
+      </template>  
+   </category>
+
+    <category>
+      <pattern>* MY PARENTS</pattern>
+      <template>
+         Your mother's name is <get name="mother"/>.
+         Your father's name is <get name="father"/>.
+      </template>  
+   </category>
+
+   <category>
+      <pattern>* MY PARENTS *</pattern>
+      <template>
+         Your mother's name is <get name="mother"/>.
+         Your father's name is <get name="father"/>.
+      </template>  
+   </category>
+
+   <category>
+      <pattern>* LIVE</pattern>
+      <template>
+         your address: <get name="address"/>.
+         Do you want me to open MAPS
+         <think>
+         <set name="topic">MAPS</set>
+         </think>
+      </template>  
+   </category>
+
+   <category>
+      <pattern>* LIVE *</pattern>
+      <template>
+         your address: <get name="address"/>.
+         Do you want me to open MAPS
+         <think>
+         <set name="topic">MAPS</set>
+         </think>
+      </template>  
+   </category>
+
+   <category>
+      <pattern>OPEN MAPS TO MY HOME</pattern>
+      <template>
+         specialcharOPEN <get name="address"/>
+      </template>  
+   </category>
+
+   <topic name = "MAPS">
+    <category>
+      <pattern>OPEN MAPS</pattern>
+      <template>
+         specialcharOPEN <get name="address"/>
+         <think>
+          <set name = "topic">NULL</set>
+          </think>
+      </template>  
+   </category>
+
+   <category>
+      <pattern>* OPEN MAPS</pattern>
+      <template>
+         <srai>OPEN MAPS</srai>
+      </template>  
+   </category>
+
+    <category>
+      <pattern>OPEN MAPS *</pattern>
+      <template>
+         <srai>OPEN MAPS</srai>
+      </template>  
+   </category>
+
+  <category>
+      <pattern>* OPEN MAPS *</pattern>
+      <template>
+         <srai>OPEN MAPS</srai>
+      </template>  
+   </category>
+
+   <category><pattern>YES</pattern>
+    <template>specialcharOPEN <get name="address"/>
+          <think>
+          <set name = "topic">NULL</set>
+          </think>
+    </template>
+    </category>
+
+    <category><pattern>YES *</pattern>
+    <template><srai>YES</srai></template>
+    </category>
+
+    <category><pattern>* YES</pattern>
+    <template><srai>YES</srai></template>
+    </category>
+
+    <category><pattern>* YES *</pattern>
+    <template><srai>YES</srai></template>
+    </category>
+
+    <category><pattern>YEAH *</pattern>
+    <template><srai>YES</srai></template>
+    </category>
+
+    <category><pattern>* YEAH *</pattern>
+    <template><srai>YES</srai></template>
+    </category>
+
+    <category><pattern>* YEAH</pattern>
+    <template><srai>YES</srai></template>
+    </category>
+
+    <category><pattern>YEAH</pattern>
+    <template><srai>YES</srai></template>
+    </category>
+
+    <category><pattern>GIVE * DETAILS</pattern>
+    <template><srai>YES</srai></template>
+    </category>
+
+    <category><pattern>GIVE * DETAILS *</pattern>
+    <template><srai>YES</srai></template>
+    </category>
+
+    <category><pattern>* GIVE * DETAILS</pattern>
+    <template><srai>YES</srai></template>
+    </category>
+
+    <category><pattern>* GIVE * DETAILS *</pattern>
+    <template><srai>YES</srai></template>
+    </category>
+
+    <category><pattern>SHOW * DETAILS</pattern>
+    <template><srai>YES</srai></template>
+    </category>
+
+    <category><pattern>SHOW * DETAILS *</pattern>
+    <template><srai>YES</srai></template>
+    </category>
+
+    <category><pattern>* SHOW * DETAILS</pattern>
+    <template><srai>YES</srai></template>
+    </category>
+
+    <category><pattern>* SHOW * DETAILS *</pattern>
+    <template><srai>YES</srai></template>
+    </category>
+
+    
+
+    <category><pattern>NO</pattern>
+    <template>What else you want to know
+    <think>
+          <set name = "topic">NULL</set>
+          </think>
+    </template>
+    </category>
+
+    <category><pattern>NO *</pattern>
+    <template><srai>NO</srai></template>
+    </category>
+
+    <category><pattern>* NO *</pattern>
+    <template><srai>NO</srai></template>
+    </category>
+
+    <category><pattern>* NO</pattern>
+    <template><srai>NO</srai></template>
+    </category>
+
+    <category><pattern>NOPE</pattern>
+    <template><srai>NO</srai></template>
+    </category>
+
+    <category><pattern>NOPE *</pattern>
+    <template><srai>NO</srai></template>
+    </category>
+
+    <category><pattern>* NOPE</pattern>
+    <template><srai>NO</srai></template>
+    </category>
+
+    <category><pattern>* NOPE *</pattern>
+    <template><srai>NO</srai></template>
+    </category>
+
+
+   </topic>
+
+   <category>
+      <pattern>* I STAY</pattern>
+      <template>
+         <srai>* LIVE</srai>
+      </template>  
+   </category>
+
+   <category>
+      <pattern>* I STAY *</pattern>
+      <template>
+         <srai>* LIVE</srai>
+      </template>  
+   </category>
+
+   <category>
+      <pattern>CALL *</pattern>
+      <template>
+         emergency contacts: <get name = "contacts"/>
+      </template>  
+   </category>
+
+   <category>
+      <pattern>* CALL *</pattern>
+      <template><srai>CALL *</srai></template>  
+   </category>
+
+   <category>
+      <pattern>* CALL</pattern>
+      <template><srai>CALL *</srai></template>  
+   </category>
+
+  <category><pattern>* CONTACT</pattern>
+   <template><srai>CALL *</srai></template>
+   </category>
+
+   
+
+
+   <category>
+        <pattern>CLEAR HISTORY</pattern>
+        <template>
+            History is cleared for you ; )
+        </template>
+    </category>
+
+    <category>
+        <pattern>* CLEAR HISTORY</pattern>
+        <template>
+            History is cleared for you ; )
+        </template>
+    </category>
+
+    <category>
+        <pattern>CLEAR HISTORY *</pattern>
+        <template>
+            History is cleared for you ; )
+        </template>
+    </category>
+
+    <category>
+        <pattern>GOODBYE</pattern>
+        <template>
+            Have a nice day ;)
+        </template>
+    </category>
+
+    <category>
+        <pattern>* GOODBYE</pattern>
+        <template>
+            Have a nice day ;)
+        </template>
+    </category>
+
+    <category>
+        <pattern>GOODBYE *</pattern>
+        <template>
+            Have a nice day ;)
+        </template>
+    </category>
+
+    <category>
+        <pattern>* GOODBYE *</pattern>
+        <template>
+            Have a nice day ;)
+        </template>
+    </category>
+
+    <category>
+        <pattern>THANK YOU</pattern>
+        <template>
+            <srai>GOODBYE</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>* THANK YOU</pattern>
+        <template>
+            <srai>GOODBYE</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>THANK YOU *</pattern>
+        <template>
+            <srai>GOODBYE</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>* THANK YOU *</pattern>
+        <template>
+            <srai>GOODBYE</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>BYE *</pattern>
+        <template>
+            <srai>GOODBYE</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>BYE</pattern>
+        <template>
+            <srai>GOODBYE</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>* BYE</pattern>
+        <template>
+            <srai>GOODBYE</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>* BYE *</pattern>
+        <template>
+            <srai>GOODBYE</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>GREAT</pattern>
+        <template>
+            <random>
+            <li>Yeah thats amazing.</li>
+            <li> yes thats great</li>
+            </random>
+        </template>
+    </category>
+
+    <category>
+        <pattern>* GREAT</pattern>
+        <template>
+            <srai>GREAT</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>GREAT *</pattern>
+        <template>
+            <srai>GREAT</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>* GREAT *</pattern>
+        <template>
+            <srai>GREAT</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>AMAZING</pattern>
+        <template>
+            <srai>GREAT</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>* AMAZING</pattern>
+        <template>
+            <srai>GREAT</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>AMAZING *</pattern>
+        <template>
+            <srai>GREAT</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>* AMAZING *</pattern>
+        <template>
+            <srai>GREAT</srai>
+        </template>
+    </category>
+
+    <category>
+      <pattern>* EMERGENCY CONTACTS *</pattern>
+      <template>
+         FATHERS contacts: <get name = "fathersnum"/>
+         MOTHERS contacts: <get name = "mothersnum"/>
+         DOCTORS contacts: <get name = "doctorsnum"/>
+      </template>  
+   </category>
+
+   <category>
+      <pattern>EMERGENCY CONTACTS</pattern>
+      <template>
+         FATHERS contacts: <get name = "fathersnum"/>
+         MOTHERS contacts: <get name = "mothersnum"/>
+         DOCTORS contacts: <get name = "doctorsnum"/>
+      </template>  
+   </category>
+
+   <category>
+      <pattern>* EMERGENCY CONTACTS *</pattern>
+      <template><srai>EMERGENCY CONTACTS</srai></template>  
+   </category>
+
+
+   <category>
+      <pattern>* EMERGENCY CONTACTS</pattern>
+      <template><srai>* EMERGENCY CONTACTS *</srai></template>  
+   </category>
+
+   <category>
+      <pattern>EMERGENCY CONTACTS *</pattern>
+      <template><srai>* EMERGENCY CONTACTS *</srai></template>  
+   </category>
+
+
+   <category>
+      <pattern>FATHERS NUMBER</pattern>
+      <template>
+         fathers contacts: <get name = "fathersnum"/>
+      </template>  
+   </category>
+
+   <category>
+      <pattern>* FATHERS NUMBER *</pattern>
+      <template><srai>FATHERS NUMBER</srai></template>  
+   </category>
+
+   <category>
+      <pattern>* FATHERS NUMBER</pattern>
+      <template><srai>* FATHERS NUMBER *</srai></template>  
+   </category>
+
+   <category>
+      <pattern>FATHERS NUMBER *</pattern>
+      <template><srai>* FATHERS NUMBER *</srai></template>  
+   </category>
+
+  <category><pattern>* FATHERS CONTACT *</pattern>
+   <template><srai>* FATHERS NUMBER *</srai></template>
+   </category>
+
+   <category><pattern>* FATHERS CONTACT *</pattern>
+   <template><srai>* FATHERS NUMBER *</srai></template>
+   </category>
+
+   <category><pattern>FATHERS CONTACT *</pattern>
+   <template><srai>* FATHERS NUMBER *</srai></template>
+   </category>
+
+   <category>
+      <pattern>MOTHERS NUMBER</pattern>
+      <template>
+         mothers contacts: <get name = "mothersnum"/>
+      </template>  
+   </category>
+
+   <category>
+      <pattern>* MOTHERS NUMBER *</pattern>
+      <template><srai>MOTHERS NUMBER</srai></template>  
+   </category>
+
+   <category>
+      <pattern>* MOTHERS NUMBER</pattern>
+      <template><srai>* MOTHERS NUMBER *</srai></template>  
+   </category>
+
+   <category>
+      <pattern>MOTHERS NUMBER *</pattern>
+      <template><srai>* MOTHERS NUMBER *</srai></template>  
+   </category>
+
+  <category><pattern>* MOTHERS CONTACT</pattern>
+   <template><srai>* MOTHERS NUMBER *</srai></template>
+   </category>
+
+   <category><pattern>* MOTHERS CONTACT *</pattern>
+   <template><srai>* MOTHERS NUMBER *</srai></template>
+   </category>
+
+   <category><pattern>MOTHERS CONTACT *</pattern>
+   <template><srai>* MOTHERS NUMBER *</srai></template>
+   </category>
+
+   <category>
+      <pattern>DOCTORS NUMBER</pattern>
+      <template>
+         doctors contacts: <get name = "doctorsnum"/>
+      </template>  
+   </category>
+
+   <category>
+      <pattern>* DOCTORS NUMBER *</pattern>
+      <template><srai>DOCTORS NUMBER</srai></template>  
+   </category>
+
+   <category>
+      <pattern>* DOCTORS NUMBER</pattern>
+      <template><srai>* DOCTORS NUMBER *</srai></template>  
+   </category>
+
+   <category>
+      <pattern>DOCTORS NUMBER *</pattern>
+      <template><srai>* DOCTORS NUMBER *</srai></template>  
+   </category>
+
+  <category><pattern>* DOCTORS CONTACT</pattern>
+   <template><srai>* DOCTORS NUMBER *</srai></template>
+   </category>
+
+   <category><pattern>* DOCTORS CONTACT *</pattern>
+   <template><srai>* DOCTORS NUMBER *</srai></template>
+   </category>
+
+   <category><pattern>DOCTORS CONTACT *</pattern>
+   <template><srai>* DOCTORS NUMBER *</srai></template>
+   </category>
+
+   <category>
+      <pattern>BLOOD GROUP</pattern>
+      <template>
+         BLOOD GROUP : <get name = "bloodg"/>
+      </template>  
+   </category>
+
+   <category>
+      <pattern>BLOOD GROUP *</pattern>
+      <template><srai>BLOOD GROUP</srai></template>  
+   </category>
+
+   <category>
+      <pattern>* BLOOD GROUP *</pattern>
+      <template><srai>BLOOD GROUP</srai></template>  
+   </category>
+
+   <category>
+      <pattern>* BLOOD GROUP</pattern>
+      <template><srai>BLOOD GROUP</srai></template>  
+   </category>
+
+  <category><pattern>* BLOOD TYPE</pattern>
+   <template><srai>BLOOD GROUP</srai></template>
+   </category>
+
+   <category><pattern>* BLOOD TYPE *</pattern>
+   <template><srai>BLOOD GROUP</srai></template>
+   </category>
+
+   <category><pattern>BLOOD TYPE *</pattern>
+   <template><srai>BLOOD GROUP</srai></template>
+   </category>
+    
+
+    <category>
+      <pattern>*</pattern>
+      <template>
+        <random>
+          <li>Sorry. I didn't quite get that., <get name = "name"/></li>
+          <li>Can you phrase that in another way., <get name = "name"/></li>
+          <li>I didnt get you, <get name = "name"/></li>
+          <li>Can you elaborate, <get name = "name"/></li>
+        </random>
+      </template>
+    </category>
+
+
+</aiml>

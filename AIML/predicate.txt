@@ -1,0 +1,20 @@
+name
+Nitin
+work
+3rd Computer Science at BITS Hyderabad
+hobbies
+Playing Chess,Cricket
+father
+Siva
+mother
+Siri
+address
+near pwd grounds, Vijayawada
+fathersnum
+9490466485
+mothersnum
+9959086242
+doctorsnum
+8106366932
+bloodg
+A+
